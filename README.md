@@ -1,7 +1,10 @@
-# Add your project to this repo
+# RightMe
 
-## update readme accordingly
+## AutoCorrector and Suggestor 
 
-### It should have
-#### How to run?
-#### What to install and how?
+### How to run
+
+#### Install the required libaries and modules.
+#### Run corrector.py in terminal.
+#### YOur program is good to go.
+#### To terminate, press grave key.
